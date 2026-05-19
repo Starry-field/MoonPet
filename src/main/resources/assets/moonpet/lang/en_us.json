@@ -1,0 +1,5 @@
+{
+  "entity.moonpet.pet": "MoonPet",
+  "commands.moonpet.spawn.success": "MoonPet spawned.",
+  "commands.moonpet.dismiss.success": "MoonPet dismissed."
+}

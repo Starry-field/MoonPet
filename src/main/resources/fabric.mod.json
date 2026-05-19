@@ -3,13 +3,13 @@
 	"id": "moonpet",
 	"version": "${version}",
 	"name": "MoonPet",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "An AI-powered pet companion for Minecraft that follows chat commands and helps in the world.",
 	"authors": [
-		"Me!"
+		"Starry-field"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Starry-field/MoonPet",
+		"sources": "https://github.com/Starry-field/MoonPet"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/moonpet/icon.png",

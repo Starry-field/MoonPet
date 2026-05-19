@@ -1,0 +1,10 @@
+{
+  "deepSeekApiKey": "sk-0a0cdcb427044ff5b7a7482c11ca5815",
+  "petName": "Luna",
+  "maxTaskRange": 64,
+  "requestTimeoutSeconds": 10,
+  "retryCount": 2,
+  "followSpeed": 1.15,
+  "workSpeed": 1.35,
+  "teleportDistance": 32.0
+}
